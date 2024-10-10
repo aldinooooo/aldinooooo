@@ -1,6 +1,8 @@
 <h1 =>Hi 👋, I'm Igo Aldino</h1>
 
 **`Software Engineer (🖥️ Backend Developer/🌐 Web Enthusiast/⚙️ Tech Explorer)`**
+<br/>
+I'm a passionate Backend Developer and a final-year student with a growing interest in building robust and scalable applications. With experience in both frontend and backend development, I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) but my real passion lies in backend development.
 
 <p align="left"> <a href="https://twitter.com/sauruusss" target="blank"><img src="https://img.shields.io/twitter/follow/sauruusss?logo=twitter&style=for-the-badge" alt="sauruusss" /></a> </p>
 
